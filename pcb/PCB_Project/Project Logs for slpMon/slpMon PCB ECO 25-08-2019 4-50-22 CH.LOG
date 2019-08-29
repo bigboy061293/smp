@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U? Old Footprint=INSE-QFN-24_V New Footprint=INSE-QFN-24_V
+Added Component: Designator=U?(SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Website"; Value = "http://group3i.net"; VariantName = "[No Variations]"
