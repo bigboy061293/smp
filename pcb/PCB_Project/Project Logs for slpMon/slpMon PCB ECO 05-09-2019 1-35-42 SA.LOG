@@ -1,0 +1,143 @@
+Added Component: Designator=C1(SMD_TANTAL_1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(SMD_RC_2512)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(SMD_RC_2512)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(SMD_RC_0201)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(SMD_RC_0201)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(SMD_RC_0201)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(SMD_RC_0201)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(SMD_RC_0201)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(PAD_2512x2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(PAD_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(PAD_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(PAD_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED1(SMD_LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED2(SMD_LED_RGB_3528)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LED 3528 - TGIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://thegioiic.com/products/led-rgb-3528"; VariantName = "[No Variations]"
+Added Component: Designator=R1(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(SMD_RC_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(SW_SMD_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TheGioiIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://thegioiic.com/products/nut-nhan-3x4-cao-2-5mm-2pin-smd"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW_SMD_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TheGioiIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://thegioiic.com/products/nut-nhan-3x4-cao-2-5mm-2pin-smd"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT-223)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(ESP8266_ESP12E)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(QUAD_24_EXTENDED)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3V3 Pin=C8-2
+Added Pin To Net: NetName=NetC2_2 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=RX Pin=J3-1
+Added Pin To Net: NetName=TX Pin=J4-1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=3V3 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_3 Pin=LED2-3
+Added Pin To Net: NetName=NetLED2_4 Pin=LED2-4
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=SCL Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=R Pin=R8-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R8-2
+Added Pin To Net: NetName=G Pin=R9-1
+Added Pin To Net: NetName=NetLED2_4 Pin=R9-2
+Added Pin To Net: NetName=B Pin=R10-1
+Added Pin To Net: NetName=NetLED2_3 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=NetR4_1 Pin=S1-2
+Added Pin To Net: NetName=NetR5_2 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U1-3
+Added Pin To Net: NetName=NetR4_1 Pin=U2-1
+Added Pin To Net: NetName=NetR6_1 Pin=U2-3
+Added Pin To Net: NetName=R Pin=U2-4
+Added Pin To Net: NetName=G Pin=U2-5
+Added Pin To Net: NetName=B Pin=U2-6
+Added Pin To Net: NetName=3V3 Pin=U2-8
+Added Pin To Net: NetName=INT Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=NetR7_2 Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=NetR5_2 Pin=U2-18
+Added Pin To Net: NetName=SDA Pin=U2-19
+Added Pin To Net: NetName=SCL Pin=U2-20
+Added Pin To Net: NetName=RX Pin=U2-21
+Added Pin To Net: NetName=TX Pin=U2-22
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U3-8
+Added Pin To Net: NetName=NetC7_2 Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=INT Pin=U3-12
+Added Pin To Net: NetName=3V3 Pin=U3-13
+Added Pin To Net: NetName=GND Pin=U3-18
+Added Pin To Net: NetName=NetC4_1 Pin=U3-20
+Added Pin To Net: NetName=SCL Pin=U3-23
+Added Pin To Net: NetName=SDA Pin=U3-24

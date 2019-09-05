@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -104,6 +104,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHSUARNF
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for slpMon\Design Rule Check - slpMon.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1032,7 +1036,7 @@ AlternateItemFail=3
 Type122=2
 
 [ERC Connection Matrix]
-L1=NNNNNNNNNNNWNNNWW
+L1=NNNNNNNNNNNWNNNWN
 L2=NNWNNNNWWWNWNWNWN
 L3=NWEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
@@ -1048,7 +1052,7 @@ L13=NNNNNNNNNNNWNNNWW
 L14=NWEENEEEENEWNEEWW
 L15=NNENNNNEEENWNENWW
 L16=WWWWNWWNWWWNWWWNW
-L17=WNNNNNNNWNNNWWWWN
+L17=NNNNNNNNWNNNWWWWN
 
 [Annotate]
 SortOrder=3
